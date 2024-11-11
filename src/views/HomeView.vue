@@ -1,8 +1,5 @@
 <template>
-  <div class="home">
-    <h1>This is home</h1>
-    <v-icon>mdi-home</v-icon>
-  </div>
+  <div class="home"></div>
 </template>
 
 <script></script>
