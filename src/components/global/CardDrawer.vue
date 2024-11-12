@@ -16,7 +16,7 @@ let drawer = ref(false);
 
 onMounted(() => {
   Emitter.on("openCart", () => {
-    drawer.value = true;
+    drawer.value = !drawer.value;
     console.log("event called");
   });
 });
