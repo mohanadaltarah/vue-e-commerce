@@ -3,7 +3,7 @@
     <v-layout>
       <CardDrawer></CardDrawer>
       <AppNav></AppNav>
-      <v-main>
+      <v-main style="padding-top: 150px">
         <slot></slot>
       </v-main>
       <AppFooter></AppFooter>
