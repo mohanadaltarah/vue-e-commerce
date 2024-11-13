@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <v-footer :app="true">
+  <v-footer :app="true" absolute color="red">
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aspernatur
       atque earum eligendi explicabo in laudantium magnam nesciunt placeat quo!

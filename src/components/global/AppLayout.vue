@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <v-layout>
+    <v-layout class="position-relative">
       <CardDrawer></CardDrawer>
       <AppNav></AppNav>
       <v-main style="padding-top: 150px">
